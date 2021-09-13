@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>add-in-between-person</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>12b23fa6-8650-44b4-a1c8-2eec0a17538f</testCaseGuid>
+   <variable>
+      <defaultValue>'Banessa'</defaultValue>
+      <description></description>
+      <id>68b3c594-e44c-4a75-a78c-0f944cbab6f6</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Mendez'</defaultValue>
+      <description></description>
+      <id>62f344f5-975a-44fe-ba3a-9bb9c328a0eb</id>
+      <masked>false</masked>
+      <name>lastName</name>
+   </variable>
+   <variable>
+      <defaultValue>'In Between'</defaultValue>
+      <description></description>
+      <id>82ca1a3e-ab0f-4f6f-babd-022e2f913342</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+   <variable>
+      <defaultValue>'6/16/2021'</defaultValue>
+      <description></description>
+      <id>13d7cb90-a09a-40d7-95f9-b168baf3aa5e</id>
+      <masked>false</masked>
+      <name>birthday</name>
+   </variable>
+   <variable>
+      <defaultValue>'Estados Unidos, New York City'</defaultValue>
+      <description></description>
+      <id>6b57ba75-23d7-4253-8baa-24d53abe2e9a</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+   <variable>
+      <defaultValue>'banessa@gmail.com'</defaultValue>
+      <description></description>
+      <id>7521db5e-e305-40a3-824f-991ff851ee53</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'jVtDMqSMFCQ='</defaultValue>
+      <description></description>
+      <id>fb4a4750-f579-4f44-924c-0fe8682a2e39</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'Serenova'</defaultValue>
+      <description></description>
+      <id>ae1bb710-b7c3-4802-8fa2-37396b690803</id>
+      <masked>false</masked>
+      <name>company</name>
+   </variable>
+   <variable>
+      <defaultValue>'Business Analyst'</defaultValue>
+      <description></description>
+      <id>13c679fc-7901-456f-9053-faf430e9a085</id>
+      <masked>false</masked>
+      <name>role</name>
+   </variable>
+   <variable>
+      <defaultValue>'Nice manager/leader'</defaultValue>
+      <description></description>
+      <id>cc8ae1bb-5b5b-4cc7-b24c-50b522a9da38</id>
+      <masked>false</masked>
+      <name>jobExpectation</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hi!'</defaultValue>
+      <description></description>
+      <id>a82feccc-8387-42d5-97a2-65ca45d4ad4a</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
