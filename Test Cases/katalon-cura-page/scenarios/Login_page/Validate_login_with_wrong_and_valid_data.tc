@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_login_with_wrong_and_valid_data</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>8d1b0ce2-3662-4703-a666-ddf1df1d7443</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f69e2130-e2db-4430-a6f9-8263b5ffd0d5</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6169d0f2-3276-4064-83d1-2abb828e2b9a</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

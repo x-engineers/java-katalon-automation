@@ -7,6 +7,11 @@
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://katalon-test.s3.amazonaws.com/aut/html/form.html'</initValue>
-      <name>url</name>
+      <name>url1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://katalon-demo-cura.herokuapp.com/'</initValue>
+      <name>url2</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

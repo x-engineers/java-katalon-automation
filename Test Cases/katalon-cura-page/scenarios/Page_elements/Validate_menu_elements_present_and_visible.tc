@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_menu_elements_present_and_visible</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>95741920-9607-4d33-b939-099d491a7db4</testCaseGuid>
+</TestCaseEntity>

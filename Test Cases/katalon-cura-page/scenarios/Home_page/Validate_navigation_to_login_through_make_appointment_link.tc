@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_navigation_to_login_through_make_appointment_link</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fcad4437-3d4f-464c-94c5-0cbf04328e21</testCaseGuid>
+</TestCaseEntity>

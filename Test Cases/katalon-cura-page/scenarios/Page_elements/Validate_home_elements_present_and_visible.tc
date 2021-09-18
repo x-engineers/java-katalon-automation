@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Validate_home_elements_present_and_visible</name>
+   <tag>Functional</tag>
+   <comment></comment>
+   <testCaseGuid>efa15623-bfef-464f-856f-12cd228f68e9</testCaseGuid>
+</TestCaseEntity>
